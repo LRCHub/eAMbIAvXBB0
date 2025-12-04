@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Delight",
+  "base_artist": "IRyS",
+  "createdAt": "2025-12-04T19:45:47.243473Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Dixieland Delight",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/01_Dixieland_Delight_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Dixieland Delight - Single Edit",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/02_Dixieland_Delight_-_Single_Edit_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Dixieland Delight (Single Edit)",
+      "artist": "Alabama",
+      "has_synced": true,
+      "path": "select/03_Dixieland_Delight_(Single_Edit)_Alabama.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Unknown Delight",
+      "artist": "George Harrison",
+      "has_synced": false,
+      "path": "select/04_Unknown_Delight_George_Harrison.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kids' Rapper's Delight (Kid's Rap-Along)",
+      "artist": "The Sugarhill Gang",
+      "has_synced": false,
+      "path": "select/05_Kids'_Rapper's_Delight_(Kid's_Rap-Along)_The_Sugarhill_Gang.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Rapper's Delight (Single Version)",
+      "artist": "The Sugarhill Gang",
+      "has_synced": true,
+      "path": "select/06_Rapper's_Delight_(Single_Version)_The_Sugarhill_Gang.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Delight",
+      "artist": "2 Unlimited",
+      "has_synced": true,
+      "path": "select/07_Delight_2_Unlimited.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Others Delight",
+      "artist": "Hooverphonic",
+      "has_synced": true,
+      "path": "select/08_Others_Delight_Hooverphonic.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Heartbreaker (Unplugged for Froggy's Delight)",
+      "artist": "Metronomy",
+      "has_synced": true,
+      "path": "select/09_Heartbreaker_(Unplugged_for_Froggy's_Delight)_Metronomy.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Monkberry Moon Delight",
+      "artist": "Tim Christensen, Mike Viola & Tracy Bonham with The Damn Crystals",
+      "has_synced": true,
+      "path": "select/10_Monkberry_Moon_Delight_Tim_Christensen,_Mike_Viola_&_Tracy_Bonham_with_The_Damn_Crystals.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Monkberry Moon Delight",
+      "artist": "Paul McCartney feat. Linda McCartney",
+      "has_synced": false,
+      "path": "select/11_Monkberry_Moon_Delight_Paul_McCartney_feat._Linda_McCartney.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Monkberry Moon Delight",
+      "artist": "Paul McCartney & Linda McCartney",
+      "has_synced": true,
+      "path": "select/12_Monkberry_Moon_Delight_Paul_McCartney_&_Linda_McCartney.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Devil Delight",
+      "artist": "Heart",
+      "has_synced": true,
+      "path": "select/13_Devil_Delight_Heart.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Romeo Delight",
+      "artist": "Van Halen",
+      "has_synced": false,
+      "path": "select/14_Romeo_Delight_Van_Halen.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Delight",
+      "artist": "IRyS",
+      "has_synced": false,
+      "path": "select/pl_01_Delight_IRyS.txt"
+    }
+  ]
+}
